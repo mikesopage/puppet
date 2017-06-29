@@ -1,6 +1,8 @@
 # puppet
 puppet repo
 
+puppet.conf - located in /etc/puppet/
+
 --production
 
       -- environment.conf
