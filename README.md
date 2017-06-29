@@ -2,6 +2,7 @@
 puppet repo
 
 --production
+
       -- environment.conf
       hieradata
       manifests
@@ -9,6 +10,7 @@ puppet repo
       modules
       
 --pre-prod
+
       -- environment.conf
       hieradata
       manifests
@@ -16,6 +18,7 @@ puppet repo
       modules
       
 --dev
+
       -- environment.conf
       hieradata
       manifests
